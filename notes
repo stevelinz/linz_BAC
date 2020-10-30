@@ -1,0 +1,35 @@
+Requirements
+
+Create a Blood Alcohol Content (BAC) calculator using jQuery.
+
+This form should use HTML5 form elements, such as <input type="number">
+
+The form should be accessible. Make sure that every input field has an associated label field.
+
+How to Calculate BAC
+
+    Determine the total liquid ounces of alcohol consumed
+        1 beer = 0.54 liquid ounces of alcohol
+        1 glass of wine = 0.6 liquid ounces of alcohol
+        1 shot = 0.6 liquid ounces of alcohol
+        If someone drank 2 beers, their total liquid ounces is 2 * 0.54
+        If someone drank 1 beer and 1 glass of wine, their total liquid ounces is 0.54 + 0.6
+    Multiply the result of step 1 by 7.5, which is the average alcohol absorption rate
+    Divide the result of step 2 by the person's weight (in pounds) to determine their BAC
+    From the result of step 3, subtract 0.015 for each hour since their first drink
+        For example, if the person's first drink was 3 hours ago, subtract (3 * 0.015)
+    Round the result of step 4 to three decimal places
+        For example, 0.080%
+
+
+Testing
+
+To test your application, a 150 pound person who drinks 2 beers would have a BAC of 0.039% after one hour.
+
+You can also use my version at http://javapuppy.com/javascript/baccalc/index.html
+(Links to an external site.) to check your calculations.
+
+Extra Credit (+2)
+
+Use Bootstrap to create a professional-looking form design.
+A good introduction can be found here: https://www.tutorialrepublic.com/twitter-bootstrap-tutorial/

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dab6a0ca-d6b8-45f7-8f05-c19782c44013" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1jSzNKAQsN4z0G3epalWfdNUsYT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dab6a0ca-d6b8-45f7-8f05-c19782c44013" name="Default Changelist" comment="" />
+      <created>1603812239894</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603812239894</updated>
+      <workItem from="1603812240916" duration="11652000" />
+      <workItem from="1603838007940" duration="3537000" />
+      <workItem from="1603842204769" duration="212000" />
+      <workItem from="1603977517858" duration="21000" />
+      <workItem from="1603991675349" duration="6988000" />
+      <workItem from="1604061954201" duration="4558000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1502" y="437" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603837142084">
+      <screen x="0" y="23" width="2560" height="1363" />
+    </state>
+    <state x="1502" y="437" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.2560.1363@0.23.2560.1363" timestamp="1603837142084" />
+    <state x="1265" y="322" key="SettingsEditor" timestamp="1603838189072">
+      <screen x="0" y="23" width="2560" height="1363" />
+    </state>
+    <state x="1265" y="322" key="SettingsEditor/0.23.2560.1363@0.23.2560.1363" timestamp="1603838189072" />
+    <state x="1400" y="340" width="670" height="676" key="search.everywhere.popup" timestamp="1603839899889">
+      <screen x="0" y="23" width="2560" height="1363" />
+    </state>
+    <state x="1400" y="340" width="670" height="676" key="search.everywhere.popup/0.23.2560.1363@0.23.2560.1363" timestamp="1603839899889" />
+  </component>
+</project>
